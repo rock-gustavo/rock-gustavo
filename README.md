@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rock-gustavo
-- 👀 I’m interested in Python, C++, Machine Learning, Data Analytics 
+- 👀 I’m interested in Python, C++, Machine Learning, Data Analytics, Jurimetric
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects.
 - 📫 How to reach me ...
